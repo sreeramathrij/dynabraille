@@ -1,0 +1,16 @@
+# Virtual Environments
+venv/
+.venv/
+env/
+__pycache__/
+
+# Logs
+pip_log.txt
+test2.txt
+test_output.txt
+out.txt
+err.txt
+
+# OS Files
+.DS_Store
+Thumbs.db
